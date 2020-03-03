@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Test/T_GameMain.unity
+- path: Assets/Scenes/Test/T_StageSelect.unity
   isLoaded: 1
   isActive: 1
